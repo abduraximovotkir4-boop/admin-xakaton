@@ -1,0 +1,14 @@
+SMARTWALLET — ADMIN
+
+TECHER va ADMIN papkalari yonma-yon tursin.
+Ishga tushirish: TECHER ichidagi BOSHLASH.cmd faylini oching. Node.js kerak.
+Asosiy sayt: http://localhost:4187/TECHER/index.html
+Admin: http://localhost:4187/ADMIN/index.html
+
+Dark / Light / Tizim mavzusi, yumshoq animatsiyalar va animatsiyani kamaytirish sozlamasi bor.
+Operatsiyalarni qidirish, filtrlash va CSV yuklash; kalkulyator rejalarini saqlash qo‘shildi.
+Admin profilni qidiradi, filtrlaydi va demo hamyonni to‘xtatadi.
+
+Bu mahalliy hackathon demo: pul, Face ID va hujjat tekshiruvi simulyatsiya. Haqiqiy bank yoki himoyalangan admin tizimi emas. Haqiqiy karta/pasport ma’lumotlarini kiritmang.
+Ma’lumotlar shu brauzerda saqlanadi. Admin va asosiy sayt bir brauzerda yuqoridagi manzillardan ochilishi kerak.
+HTML, CSS va JavaScript alohida fayllarda.
