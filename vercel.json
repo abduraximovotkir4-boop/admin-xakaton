@@ -1,0 +1,17 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://admin-xakaton-g9eq.vercel.app/ADMIN/index.html",
+      "permanent": false
+    },
+    {
+      "source": "/index.html",
+      "destination": "https://admin-xakaton-g9eq.vercel.app/ADMIN/index.html",
+      "permanent": false
+    }
+  ]
+}
